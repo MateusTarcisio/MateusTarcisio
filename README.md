@@ -1,5 +1,5 @@
 # Mateus Tarcisio:
-Me chamo Mateus Tarcisio e sou natural de Recife - PE. Concluí o ensino médio com o curso técnico em Informática para Internet. Atualmente, sou bolsista na graduação em Ciência de Dados e IA na Cesar School
+Me chamo Mateus Tarcisio e sou natural de Recife - PE. Concluí o ensino médio com o curso técnico em Informática para Internet, pelo Senai. Atualmente, sou bolsista na graduação em Ciência de Dados e IA na Cesar School.
 
 ## Tecnologias:
 
@@ -14,5 +14,8 @@ Me chamo Mateus Tarcisio e sou natural de Recife - PE. Concluí o ensino médio 
 
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mateus-tarcisio-57495b26a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mateus.tarcisio.apc@gmail.com) 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MateusTarcisio&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
